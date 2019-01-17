@@ -1,4 +1,4 @@
-defmodule Multibase.MixProject do
+defmodule CID.MixProject do
   use Mix.Project
 
   @version "0.0.1"
